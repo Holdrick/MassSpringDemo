@@ -1,0 +1,16 @@
+Assignment 3
+Taylor Cooper - 10121325
+
+Instructions:
+-run make to build the program
+-call ./asg3 with the type of simulation you want to see as the first argument
+  -enter 'spring' for a ball on a spring
+   --enter the mass of the ball as the second argument
+  -enter 'pendulum' for a chain of balls with springs
+   --enter the number of balls in the chain as the second argument
+  -enter 'cube' for the cube simulation
+  -enter 'cloth' for the cloth simulation
+
+Key bindings:
+-Left/right mouse button to zoom in and out
+-Arrow keys to rotate the scene
