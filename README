@@ -1,4 +1,4 @@
-Uses glfw-3.1.1, glew-1.13, and glm
+Uses glfw-3.1.1, glew-1.13, and glm (not included in solution)
 
 Instructions:
 -run make to build the program
